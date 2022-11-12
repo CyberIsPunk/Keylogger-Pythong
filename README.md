@@ -9,8 +9,13 @@ This beast can not only log keys, but takes a screenshot, get a sound recording,
 Type these commands for the requirements. Make sure to type them respectively.
 
 pip install pywin32
+
 pip install scipy
+
 pip install pynput
+
 pip install cryptography
+
 pip install sounddevice
+
 pip install pillow
